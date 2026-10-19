@@ -1,8 +1,3 @@
-
-Коля Олимов <kolaolimov7@gmail.com>
-4:51 PM (0 minutes ago)
-to me
-
 import asyncio
 import logging
 from aiogram import Bot, Dispatcher, F, types
